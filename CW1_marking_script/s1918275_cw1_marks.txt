@@ -21,10 +21,11 @@ Section points = 3
 ----------------------------------------
 Random plots
 ----------------------------------------
-['./MyData/s1918275/Respeck_s1918275_Sitting_04-10-2022_14-16-41.csv', './MyData/s1918275/Thingy_s1918275_Sitting_01-10-2022_13-32-50.csv'] plot had the issue of:  Good
-./MyData/s1918275/Thingy_s1918275_Lying down on stomach_01-10-2022_13-49-48.csv plot had the issue of:  Good
-./MyData/s1918275/Thingy_s1918275_Lying down on back_01-10-2022_13-44-33.csv plot had the issue of:  Good
-./MyData/s1918275/Thingy_s1918275_Climbing stairs_01-10-2022_14-01-06.csv plot had the issue of:  Good
+./MyData/s1918275/Thingy_s1918275_Sitting bent forward_04-10-2022_14-18-49.csv plot had the issue of:  Good
+./MyData/s1918275/Respeck_s1918275_Lying down on stomach_01-10-2022_13-50-24.csv plot had the issue of:  GOod
+./MyData/s1918275/Respeck_s1918275_Lying down on back_01-10-2022_13-43-54.csv plot had the issue of:  Good
+./MyData/s1918275/Thingy_s1918275_Walking at normal speed_01-10-2022_13-54-46.csv plot had the issue of:  Good
+./MyData/s1918275/Respeck_s1918275_Desk work_01-10-2022_13-41-22.csv plot had the issue of:  Good
 Section points = 0
 ----------------------------------------
 Recording frequency
